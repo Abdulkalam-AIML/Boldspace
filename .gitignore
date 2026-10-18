@@ -1,0 +1,12 @@
+# Local previews and test artifacts
+boldspace-preview.png
+output/
+
+# Local environment configuration
+.env
+.env.*
+!.env.example
+
+# OS and editor files
+.DS_Store
+.vscode/
